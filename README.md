@@ -1,0 +1,2 @@
+# AspectsPreferences
+主要是封装了NSUserDefaults以及Aspects主要的功能是统一添加统计事件
